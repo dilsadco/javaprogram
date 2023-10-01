@@ -1,5 +1,3 @@
-package javaprogram;
-
 import java.util.Scanner;
 
 class ReversNumber {
