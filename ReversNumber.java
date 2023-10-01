@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//This is reverse number program
 class ReversNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
