@@ -7,6 +7,7 @@ public class StudentGradeSheet {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter student marks : ");
         int marks = sc.nextInt();
+        sc.close();
         System.out.print("Student grade is : ");
         if (marks >= 90 && marks <= 100) {
             System.out.print("O"); // O --> Outstanding
